@@ -1,10 +1,11 @@
-## Crypto-economy for science & innovation.
+### Crypto-economy for science & innovation.
 
-### Blockchain for Science
+#### Blockchain for Science
 
 To the Moon, Mars, and beyond🚀
 
-**Own the World's most influential bits of science that advance humanity!** Scientific publications are _memes_.
+**Own the World's most influential bits of science that advance humanity!**
+Scientific publications are _memes_.
 
 Here we kickstart the [crypto-economy for science](https://medium.com/blockchainforscience/the-emerging-crypteconomy-for-science-and-knowledge-creation-6cfe2a79f514). As bitcoin and blockchain have incentivized the ones who can think beyond the status quo, we feel that science needs more of this.
 
@@ -12,4 +13,4 @@ We create a [NFT standard for scientific papers, ideas, concepts, data sets, and
 
 Revenue created will go to the decentralized future of science and/or might end up in a research-DAO.
 
-Behind this project is www.blockchainforscience.com (@scienceb_0), @soenkeba, @EtzrodtMartin, @skywatcher1975,@gflaesch.
+Behind this project is [www.blockchainforscience.com](www.blockchainforscience.com) (@scienceb_0), @soenkeba, @EtzrodtMartin, @skywatcher1975,@gflaesch.
